@@ -1,0 +1,2 @@
+FROM eggplanet/nuxt
+MAINTAINER Shudoong
